@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/1.png</file>
+        <file>icon/2.png</file>
+        <file>icon/3.png</file>
+        <file>icon/3_environment2.bmp</file>
+        <file>icon/4.png</file>
+        <file>icon/5.png</file>
+        <file>icon/6.png</file>
+        <file>icon/close.png</file>
+        <file>icon/CloseMonitoring.png</file>
+        <file>icon/connect_wifi.png</file>
+        <file>icon/control.bmp</file>
+        <file>icon/control2.bmp</file>
+        <file>icon/disclose.png</file>
+        <file>icon/disCloseMonitoring.png</file>
+        <file>icon/disconnect.png</file>
+        <file>icon/dislv1.png</file>
+        <file>icon/dislv2.png</file>
+        <file>icon/dislv3.png</file>
+        <file>icon/disopen.png</file>
+        <file>icon/disOpenMonitoring.png</file>
+        <file>icon/iconExit.png</file>
+        <file>icon/iconLogin.png</file>
+        <file>icon/login.png</file>
+        <file>icon/lv1.png</file>
+        <file>icon/lv2.png</file>
+        <file>icon/lv3.png</file>
+        <file>icon/open.png</file>
+        <file>icon/OpenMonitoring.png</file>
+        <file>icon/other.bmp</file>
+        <file>icon/register.png</file>
+        <file>icon/registerIcon.png</file>
+        <file>icon/thresholdValue.bmp</file>
+        <file>icon/tianqi.bmp</file>
+        <file>icon/update_wifi.png</file>
+        <file>icon/white.bmp</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+myflame{
+	compatible = "100ask,gpio_flame";
+   	pinctrl-names = "default";
+   	pinctrl-0 = <&pinctrl_flame>;
+   	flame-gpios = <&gpio4 23 GPIO_ACTIVE_LOW>;
+}；
+
+mylight{
+	compatible = "100ask,gpio_light";
+   	pinctrl-names = "default";
+   	pinctrl-0 = <&pinctrl_light>;
+   	flame-gpios = <&gpio4 21 GPIO_ACTIVE_LOW>;
+}；
