@@ -1,0 +1,14 @@
+# 排除特定文件类型
+sensor_drv/beep_simple/*
+
+sensor_drv/**/*.o
+sensor_drv/**/*.mod
+sensor_drv/**/*.ko.cmd
+sensor_drv/**/*.mod.o.cmd
+sensor_drv/**/*.o.cmd
+sensor_drv/**/*.o.d
+sensor_drv/**/*.o
+sensor_drv/**/*.ko
+sensor_drv/**/*.symvers
+sensor_drv/**/*.order
+
